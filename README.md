@@ -9,3 +9,5 @@ For Layout Analysis it use [LADaS](https://github.com/DEFI-COLaF/LADaS/releases/
 Kraken use [CATMuS-Print Large](https://zenodo.org/records/10592716)
 
 A Big Thank you to [Simon Gabay](https://github.com/gabays) for the help! 
+
+For transformation of XML Alto to TEI : https://github.com/DEFI-COLaF/LADAS2TEI
