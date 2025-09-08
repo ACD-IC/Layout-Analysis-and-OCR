@@ -7,3 +7,5 @@ The notebook RTK.ipynb use the [RTK pipeline](https://github.com/PonteIneptique/
 For Layout Analysis it use [LADaS](https://github.com/DEFI-COLaF/LADaS/releases/tag/2024-10-31).
 
 Kraken use [CATMuS-Print Large](https://zenodo.org/records/10592716)
+
+A Big Thank you to [Simon Gabay](https://github.com/gabays) for the help! 
