@@ -5,7 +5,7 @@
     <Description>
         <MeasurementUnit>pixel</MeasurementUnit>
         <sourceImageInformation>
-            <fileName>sample/sample_page_iconologia_page5.jpg</fileName>
+            <fileName>sample_page_iconologia_page5.jpg</fileName>
         </sourceImageInformation>
         <Processing ID="OCR_97cf4288-0492-4c40-b0af-243ad94b2066">
             <processingCategory>contentGeneration</processingCategory>
