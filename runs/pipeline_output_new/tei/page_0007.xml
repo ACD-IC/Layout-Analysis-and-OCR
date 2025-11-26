@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0007.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_2_QuireMarksZone" ulx="1328" uly="2223" lrx="1459" lry="2288"/>
+      <zone xml:id="facs_region_3_QuireMarksZone" ulx="1056" uly="2223" lrx="1220" lry="2284"/>
+      <zone xml:id="facs_region_4_MainZone-P" ulx="91" uly="938" lrx="1526" lry="2214"/>
+      <zone xml:id="facs_region_5_QuireMarksZone" ulx="1054" uly="2222" lrx="1467" lry="2292"/>
+      <zone xml:id="facs_region_6_MainZone-Head" ulx="402" uly="792" lrx="1224" lry="909"/>
+      <zone xml:id="facs_region_7_GraphicZone" ulx="104" uly="934" lrx="527" lry="1345"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_2_QuireMarksZone"/>
+      <ab facs="#facs_region_3_QuireMarksZone"><lb/> </ab>
+      <p facs="#facs_region_4_MainZone-P"><lb/>*4 <lb/> <lb/> <lb/> <lb/>L <lb/>" <lb/>4 <lb/>R A quanti amici, &amp; patroniio m’hab¬ <lb/>bia mai hauuto, io non ho in alcun tem <lb/>po conosciuto persona, che habbia piu <lb/>L <lb/>amabili qualita, &amp; che mi voglia piu <lb/>bene, di V.P. molto Reu. Et per lascia <lb/>re da parte la intelligenza bona, ch’ella <lb/>ha di Arithmetica, di Geometria, d’Architetura, di Mu¬ <lb/>sica, di formare con la penna ogni sorte di politi caratteri, <lb/>che tutte sono arti nobili, &amp; atte ad illustrare ogn' vna per <lb/>O <lb/>se vn’homo; chi può vedere &amp; non amare in lei la destrez <lb/>za, la diligenza, l’affabilit à, &amp; l’altre notabili sue parti ? <lb/>4 <lb/>Queste sono state le cagioni, che V. P. s’habbia acquista¬ <lb/>to l’amore di tutti i suoi Padri di cotesta nobilissima Con¬ <lb/>gregatione di Santa Giustina, che sia stata sempre impie <lb/>O <lb/>gata in maneggrimportantissimi, come sarebbe a dire nel <lb/>C <lb/>O0 <lb/>Cellerariato di Correggiola, &amp; che fin almente doppo mol <lb/>20 <lb/>1 <lb/>to trauagliare, i suoi Superiori habbiano anteposto il suo <lb/>gusto, &amp; la sua quiete, al bisogno, ch’essi teneuano della <lb/> <lb/>sua sempre lodata sufficienza. E veramente non è da ne </p>
+      <ab facs="#facs_region_5_QuireMarksZone"><lb/> </ab>
+      <head facs="#facs_region_6_MainZone-Head"><lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>1 <lb/> </head>
+      <ab facs="#facs_region_7_GraphicZone"/>
+    </body>
+  </text>
+</TEI>

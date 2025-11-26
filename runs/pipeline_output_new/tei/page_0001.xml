@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0001.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1767" lry="2663">
+      <zone xml:id="facs_region_0_NumberingZone" ulx="1017" uly="18" lrx="1093" lry="80"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <fw type="pageNum" facs="#facs_region_0_NumberingZone"/>
+    </body>
+  </text>
+</TEI>

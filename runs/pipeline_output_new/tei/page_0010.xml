@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0010.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_0_QuireMarksZone" ulx="1353" uly="2179" lrx="1537" lry="2247"/>
+      <zone xml:id="facs_region_1_MainZone-Continued" ulx="174" uly="276" lrx="1609" lry="1991"/>
+      <zone xml:id="facs_region_2_MainZone-Sp" ulx="168" uly="347" lrx="1609" lry="2143"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_0_QuireMarksZone"/>
+      <ab facs="#facs_region_1_MainZone-Continued"><lb/>Ripá, e talatala julor degitrrori avisa culriene Rtomana, ce.- <lb/>quella diligenza, che piacque fino all’Auttore medesimo, come si <lb/>vederà per lo transunto d’vna sua Lettera, che qui sotto si re¬ <lb/>sistrera; venne in pensiero a chi s’è preso cura di ristampare la <lb/>medesima opera in Siena, di biasimare quanto d’industria io ado¬ <lb/>perai all’hora per cauare questa nobile opera fuor delle miserie del.. <lb/>la primiera editionc. Non voglio pero io imitare chi ha fatto <lb/>ma le, et rendere come si dice pane per focaccia, ma mi contenta¬ <lb/>rò di dire, che la editione Romana, et la Stampa di Siena hanno <lb/>fra se quella relatione, che tiene il male al peggio. Questo mio <lb/>detto so, ch’è notorio, &amp;r che non sarà negato se non da chi nega <lb/>hauendo occhi, che’l'Sole habbia luce. Sò appresso, che persone <lb/>molto intendenti, che s’hanno preso briga di aggiustare i spropositi <lb/>certi in questa terza stampa, non per colpa dell’Auttore, ma di <lb/>persone poco amoreuoli hanno durato fatica degna di molta lode, (er <lb/>hanno hauuto a combattere con facciate, &amp;t quinterni intieri tra¬ <lb/>sposti, con errori di testo, &amp; d’auttorita incomportabili, con figu¬ <lb/>re shalzate, con dipinture di parole greche in caratteri latini, con <lb/>l’autorità latine scorrettissime, &amp; con cose simili, che posso¬ <lb/>no eßere riconosciute da qual si voglia, che non voglia <lb/>cosi di leggiero credere a me, quando si rissolue¬ <lb/>ra di prendere il libro in mano, et an¬ <lb/>darlo scorrendo. Ma tanto basti, <lb/>&amp; parli per me l’Aluttore <lb/>medesimo, ilquale in <lb/>vna sua Let¬ </ab>
+      <ab facs="#facs_region_2_MainZone-Sp"><lb/>vederà per le transunto d’vna sua Lettera, che qui sotto si re¬ <lb/>cistrera; venne in pensiero a chi s’è preso cura di ristampare la <lb/>medesima opera in Siena, di biasimare quanto d’industria io ado¬ <lb/>perai all’hora per cauare questa nobile opera fuor delle miserie del. <lb/>la primiera editionc. Non voglio però io imitare chi ha fatto <lb/>ma le, et rendere come si dice pane per focaccia, ma mi contenta¬ <lb/>rò di dire, che la editione Romana, &amp; la stampa di Siena hanno <lb/>fra se quella relatione, che tiene il male al peggio. Questo mio <lb/>detto sò, ch’è notorio, &amp;t che non sarà negato se non da chi nega <lb/>hauendo occhi, che’ l'Sole habbia luce. Sò appresso, che persone <lb/>molto intendenti, che s’hanno preso briga di aggiustare i spropositi <lb/>certi in questa terza stampa, non per colpa dell’Auttore, ma di <lb/>persone poco amoreuoli hanno durato fatica degna di molta lode, (&amp; <lb/>hanno hauuto a combattere con facciate, et quinterni intieri tra¬ <lb/>sposti, con errori di testo, &amp; d’auttorita incomportabili, con figu¬ <lb/>re shalzate, con dipinture di parole greche in caratteri latini, con <lb/>l’autorità latine scorrettissime, &amp; con cose simili, che posso¬ <lb/>no eßere riconosciute da qual si voglia, che non voglia <lb/>cosi di leggiero credere a me, quando si rissolue¬ <lb/>rà di prendere il libro in mano, e an¬ <lb/>darlo scorrendo. Ma tanto basti, <lb/>&amp; parlt per me l’Auttore <lb/>medesimo, ilquale in <lb/>vna sua Let¬ <lb/>tera mi <lb/>scriße gia, come qui sotto; </ab>
+    </body>
+  </text>
+</TEI>

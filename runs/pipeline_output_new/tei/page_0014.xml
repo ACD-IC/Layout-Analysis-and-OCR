@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0014.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1684" lry="2467">
+      <zone xml:id="facs_region_0_MainZone-Continued" ulx="207" uly="341" lrx="1616" lry="1632"/>
+      <zone xml:id="facs_region_1_MainZone-P" ulx="207" uly="1626" lrx="1608" lry="2272"/>
+      <zone xml:id="facs_region_2_QuireMarksZone" ulx="1463" uly="2263" lrx="1545" lry="2308"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_0_MainZone-Continued"><lb/>neratione, &amp; la corruttione delle tose naturali, o la dispositione de Cieli, o l’influen¬ <lb/>za delle stelle, o la fermezza della Terra, o altre simili cose, le quali con vn lungo <lb/>studio ritrouarono per auanzare in questa cognitione la Plebe, &amp; accioche non egual <lb/>mente i dotti, &amp; l’ignoranti potessero intendere, &amp; penetrare le tagioni delle cose, se <lb/>le andauano copertamente communicando fra loro, &amp; coperte ancora per mezzo di <lb/>queste imagini, le lasciauano a’posteri, che doueuano d'gli altri essere superiori di di¬ <lb/>gnità, &amp; di sapienza. Di qui è nata la moltitudine delle Fauole de gli antichi <lb/>Scrittori, le quali hanno l’vtile della scienza per li dotti, &amp; il dolce delle curiose <lb/>narrationi per gl’ignoranti. Però molti ancora de gli huomini di gran conto banno <lb/>stimato loro degna fatica lo spiegare quelle cose, che trouauano in queste Fauole oc¬ <lb/>cultate, lasciandoci scritto, che per l’imagine di Saturno intendeuano il Tempo, il qua <lb/>le a gli anni, a' mesi, ed a' giorni dà, &amp; toglie l’essere, come eßso diuoraua quei me¬ <lb/>desimi fanciulli, che erano suoi figliuoli. E per quella di Gioue fulminante, la par¬ <lb/>te del Cielo più pura, donde vengono quasi tutti gli effetti Meteorologici. Per l’I¬ <lb/>magine ancora di Venere d’estrema bellezza, l’appetito della materia prima, come <lb/>dicono i Filosofi, alla forma, che le da il compimento. E che quelli, che credeuano il <lb/>Mondo essere torpo mobile, ed ogni cosa succedere per lo predominio delle Stelle ( se¬ <lb/>condo, che racconta nel Pimandro Mercurio Trismegisto) finsero Argo Pastorale, <lb/>che con molti occhi da tutte le bande riguardasse. Questo istesso mostrarono in Giu¬ <lb/>none, sospesa in aria dalla mano di Gioue, come dißse Homero, ed infinite altre imagi <lb/>ni, le quali hanno gia ripient molti volumi, &amp; stancati molti Scrittori, ma con pro¬ <lb/>fitto di dottrina, &amp; di sapienza. Il secondo modo delle Imagini abbraccia quelle cose <lb/>che sono nell’huomo medesimo, o che hanno gran vicinanza con esso, come i concetti, <lb/>&amp; gli habiti, che da' concetti ne nascono, con la frequenza di molte attioni partico¬ <lb/>lari; &amp; concetti dimandiamo senza più sottile inuestigatione, tutto quello, che può es¬ <lb/>ser significato con le parole; il qual tutto vien commodamente in due parti diuiso. </ab>
+      <p facs="#facs_region_1_MainZone-P"><lb/>L’vna parteè, che afferma, o nega qualche cola d’alcuno; l’altra, che no. Con <lb/>quella formano l’artifitio loro quelli, che compongono l’Imprese, nelle quali con pochi <lb/>corpi, &amp; poche parole vn sol concetto s’accenna, &amp; quelli ancora, che fanno gli Em <lb/>blemi, oue maggior concetto con più quantità di parole, &amp; di corpi si manifesta. Con <lb/>10 <lb/>questa poi si forma l’arte dell’altre Imageni, le quali appartengono al nostro discor <lb/>4 <lb/>o, per la conformita, che hanno con le definitioni; le quali solo abbracciano le virtil <lb/>4 <lb/>ed i vitij, otutte quelle cose, che hanno conuenienza con questi, o con quelle, senze <lb/>affermare, ô negare alcuna cosa, e per essere ò sole priuationt, o habiti puri, si espri <lb/>6°. <lb/>y4 <lb/>mono con la figura humana conuenientemente. Percioche, si come l’huomo tutto é <lb/>misura di tutte le cose, secondo la commune opinione de' Filosofi <lb/>&amp; <lb/>s’Aristotele in <lb/>particolare, quasi come la definitione è misura del definito, cosi medesimamente la for <lb/>4 <lb/>ma accidentale. che apparisce esteriormente d’esso, può esser misura accidentale delle <lb/>qualità definibili, qua lunque si stano, o dell’anima nostra sola, o di tutto il compo¬ <lb/> <lb/>¬ </p>
+      <ab facs="#facs_region_2_QuireMarksZone"/>
+    </body>
+  </text>
+</TEI>
