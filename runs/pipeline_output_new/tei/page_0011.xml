@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0011.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_1_MainZone-Head" ulx="85" uly="122" lrx="1413" lry="226"/>
+      <zone xml:id="facs_region_2_MainZone-P" ulx="32" uly="1772" lrx="1495" lry="2167"/>
+      <zone xml:id="facs_region_3_MainZone-P" ulx="53" uly="265" lrx="1494" lry="984"/>
+      <zone xml:id="facs_region_4_MainZone-P" ulx="45" uly="1250" lrx="1498" lry="1428"/>
+      <zone xml:id="facs_region_5_MainZone-Sp" ulx="127" uly="1018" lrx="1388" lry="1195"/>
+      <zone xml:id="facs_region_6_MainZone-Other" ulx="129" uly="1018" lrx="1384" lry="1197"/>
+      <zone xml:id="facs_region_7_MainZone-Sp" ulx="35" uly="1572" lrx="1493" lry="2172"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <head facs="#facs_region_1_MainZone-Head"/>
+      <p facs="#facs_region_2_MainZone-P"><lb/>«ANOW <lb/>—4 <lb/>LACn <lb/>RCrCrcIX <lb/>CIETXE <lb/>★1lalirirax. <lb/>-4e81* <lb/> <lb/>— <lb/>RRRRNII <lb/>2 <lb/>a Ree X2 <lb/>PPOTIEE, <lb/>1424 <lb/>14 <lb/>4 <lb/> <lb/>4 <lb/>« d a <lb/>★ACe <lb/> <lb/>281 <lb/>—. <lb/>6 <lb/> <lb/>ainOrcuoli <lb/>mia dilr <lb/>FA <lb/>1124, <lb/>2X61 Ca <lb/>XCIX <lb/>11 <lb/>TEL <lb/> <lb/>Rtreci <lb/>-72 <lb/> <lb/> <lb/>V <lb/>1a <lb/>T2Ivet. <lb/>fatte <lb/>F61 <lb/>mia <lb/>lificerit: <lb/>haucrii Ii) <lb/>54 <lb/>TTI <lb/>FA <lb/>144 <lb/>ando <lb/>mi ricica d haucr <lb/>r'atia <lb/>★EXCXCE, <lb/>I0IIIIII <lb/>1 <lb/>X2FVIIE <lb/> <lb/>— <lb/>AIXO <lb/>larcri <lb/>articolar <lb/>11110 <lb/> <lb/>FEI <lb/>II <lb/>II <lb/>2 <lb/>III <lb/>CIIt <lb/>— <lb/>ru X4. <lb/>2111--CCIIII <lb/>a <lb/>E <lb/>cttare <lb/>1I1 <lb/>ra <lb/>1222110 <lb/>tOr <lb/>CICITIS <lb/>miaLibrcri </p>
+      <p facs="#facs_region_3_MainZone-P"><lb/>visto la mia Iconologia diligentemente ristampa <lb/>49 <lb/>ta da V. S. con diuerse, &amp; nobilissime Tauole, &amp; <lb/>Figure intagliate con tanta industria, &amp; arte, che <lb/>C <lb/>in vero meglio non si potrebbono fare. Percio io <lb/>4 <lb/>la ringratio infinitamente, &amp; gli resto con quell <lb/>5 <lb/>obligo, che sia possibil maggiore, non solo pet que <lb/>20 <lb/> <lb/>4 <lb/>sto, ma perche ella ha mostrato di tenere in pregio <lb/>O <lb/>4 <lb/>le cose mie, &amp; hauerle care. <lb/>Veda pur dunque s’io la posso seruire in <lb/>4 <lb/>qualche cosa, che vedrà in me la prontezza, &amp; il desiderio grandissimo <lb/>L <lb/>ch’io ho d’obedirla, &amp; seruirla sempre in tutto quello, ch’ella si degne¬ <lb/>ra di commandarmi. <lb/> <lb/>Qui dunque farò fine, &amp; con ogn riuerenza li <lb/>D <lb/>bacio le mani, pregandogli dal Signor Dio ogni contento, &amp; felicita <lb/>mag <lb/>30 <lb/>lofc. <lb/>Di Roma questo di 19. Febraio 1611 </p>
+      <p facs="#facs_region_4_MainZone-P"/>
+      <ab facs="#facs_region_5_MainZone-Sp"/>
+      <ab type="MainZone-Other" facs="#facs_region_6_MainZone-Other"/>
+      <ab facs="#facs_region_7_MainZone-Sp"><lb/>nl molto Mag. »i <lb/>11319 <lb/>&amp; patronc mio oiseruandiis, <lb/>Pietro Paulo l’ozzi Libraio. <lb/>in race. <lb/>Hor che diranno questi nostri? si lasciaranno perluadere dall’Auttote <lb/>iltello, o pure vorranno perfidiarc, &amp; dire che non ilta cosi ? Voi Lettori <lb/>amorcuoli, chc haucte approuata piu d’vna volta la mia lincerita <lb/>a 4 <lb/> <lb/>&amp; la <lb/>inia diligenza, larete contenti di vedere il fatto, &amp; hauermi in protettio¬ <lb/>F <lb/>ne. che quando miriesca dhauere la gratia vottra, lo non mi curo molta <lb/>12 <lb/>le chi per qualche particolare interesse non mi vuole in tutto benc. Y’O <lb/>4 <lb/>amatemi, &amp; alpettate in breue fuor della mia Libreria cole degne di <lb/>4 <lb/>2r <lb/>17 </ab>
+    </body>
+  </text>
+</TEI>

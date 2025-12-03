@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0005.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_0_TitlePageZone" ulx="25" uly="713" lrx="1639" lry="2220"/>
+      <zone xml:id="facs_region_1_TitlePageZone" ulx="0" uly="142" lrx="1604" lry="1486"/>
+      <zone xml:id="facs_region_2_MainZone-P" ulx="13" uly="567" lrx="1586" lry="730"/>
+      <zone xml:id="facs_region_3_GraphicZone" ulx="0" uly="1456" lrx="1565" lry="2201"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <titlePage facs="#facs_region_0_TitlePageZone"><lb/>D <lb/>PERA <lb/>Vtile ad Oratori, Predicatori, Poeti, Pittori, Scultori, Disegnatori, e ad’ogni studioso. <lb/>Per inuentar Concetti, Emblemi, ed Imprese, <lb/>Per diuisare qualsiuoglia apparato Nuttiale, Funerale, Trionfale. <lb/>Per rappresentar Poemi Drammatici, e per figurare co’suoi propij simboli <lb/>cio, che può cadere in pensiero humapo. <lb/>A M PLI A <lb/>MT A <lb/>Vltimamente dallo Steßo Auttore di Trecento Imagini, e arricchite di molti discorsi pieni de <lb/>varia cruditione; con nuoui intagli, &amp; con molti Indici copiosi. <lb/>Dedicara all’Illustre, &amp; M. Reu. Padre D. MASSIMO da Mantoua <lb/>~~ <lb/>Decano, &amp; Vicario perpetuo di Ciue. <lb/>~~ ~ ~~ ~~~ <lb/>d¬ </titlePage>
+      <titlePage facs="#facs_region_1_TitlePageZone"><lb/>¬ <lb/>1A <lb/>DI CESARE RIPA PERVGINO <lb/>-aualier de SS. Mauritio, &amp; Lazzaro. <lb/>Nella quale si descriuono diuerse Imagini di Virtù, Vitij, Affetti, Passioni hu <lb/>manc, Arti, Discipline, Humori, Elementi, Corpi Celesti, Prouincie <lb/>d’Italia, Fiumi, tutte le parti del Mondo, ed’altre infinite materic. <lb/>1 <lb/>PERA <lb/>Vtile ad Oratori, Predicatori, Poeti, Pittori, Scultori, Disegnatori, e ad’ogni studioso. <lb/>Per inuentar Concetti, Emblemi, ed Imprese, <lb/>Per diuisare qualsiuoglia apparato Nuttiale, Funerale, Trionfale. <lb/>Per rappresentar Poemi Drammatici, e per figurare co’suoi propij simboli <lb/>cio, che puo cadere in pensiero humapo. <lb/>A A <lb/>PLIA <lb/>T <lb/> <lb/>Vltimamente dallo Steßo Auttore di Trecento Imagini, e arricchite di molti discorsi pieni de <lb/>varta cruditione; con nuout intagli, &amp; con molti Indici copiosi. <lb/>Dedicara all’Illustre, &amp; M. Reu. Padre D. MASSIMQ da Mantoua <lb/>Decano, &amp; Vicario perpetuo di Ciuc. </titlePage>
+      <p facs="#facs_region_2_MainZone-P"/>
+      <ab facs="#facs_region_3_GraphicZone"><lb/>2 <lb/>Mu <lb/> <lb/>VICI <lb/>4 <lb/> <lb/> <lb/>U <lb/>ummm <lb/>121 <lb/> <lb/>2 </ab>
+    </body>
+  </text>
+</TEI>

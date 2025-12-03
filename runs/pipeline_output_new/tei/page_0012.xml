@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0012.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1684" lry="2467">
+      <zone xml:id="facs_region_0_GraphicZone" ulx="0" uly="166" lrx="1652" lry="1994"/>
+      <zone xml:id="facs_region_1_GraphicZone" ulx="11" uly="605" lrx="1657" lry="2336"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_0_GraphicZone"><lb/>2 <lb/>V <lb/>2 <lb/>2 <lb/>62 <lb/>1 <lb/>X0 <lb/>8 <lb/> <lb/>C¬ <lb/>ra <lb/>E <lb/>Eft <lb/>6 <lb/> <lb/>tetpetf <lb/>1 <lb/>-- <lb/>2 <lb/>52 <lb/> <lb/> <lb/>2- <lb/>42 <lb/>2 <lb/> <lb/>E <lb/>651 <lb/>124 <lb/>2 <lb/> <lb/>C3 <lb/>=- <lb/>— <lb/>3 <lb/>6¬ <lb/>22 <lb/> <lb/>~C* <lb/>1 <lb/>- <lb/>2 <lb/>~~~ <lb/>1a <lb/>lllllllu bouauu <lb/> <lb/>*66- <lb/>2 <lb/>— <lb/>63 <lb/> <lb/>417 <lb/>-2 <lb/>7- <lb/> <lb/>1. <lb/> <lb/>. <lb/>L15 <lb/>L </ab>
+      <ab facs="#facs_region_1_GraphicZone"><lb/>L <lb/>22 <lb/>17 <lb/>27 <lb/>3- <lb/>EL <lb/>L <lb/>3 <lb/>5t- <lb/>22 <lb/>2 <lb/>~ <lb/> <lb/> <lb/>L <lb/> <lb/>21 <lb/>V4 <lb/>11 <lb/>BOr <lb/> <lb/>X <lb/>X <lb/>3 <lb/>yAi <lb/>V <lb/> <lb/>ArEtS <lb/>El tit <lb/>ESfoi eilss <lb/>d. <lb/>— <lb/>411 <lb/> <lb/> <lb/>41i <lb/> <lb/>~ <lb/>— <lb/>-— <lb/>2— <lb/>3 <lb/>= <lb/>1t <lb/>EAIY, <lb/>8 <lb/>EEN5 <lb/>M <lb/>8 <lb/>45 <lb/> <lb/>aallvhtaκαμa   <lb/>SAR RIPA Z <lb/>A <lb/>4 <lb/>RITIIET LAZ. <lb/>ũ <lb/>21 <lb/>2-. <lb/>2 <lb/>" <lb/>2 <lb/>4-4-173 <lb/>Tis-- <lb/>C <lb/>TAU <lb/>43 <lb/> <lb/>— <lb/>m- <lb/>VEE <lb/>11 <lb/>4 <lb/>2 <lb/>2 <lb/>4 — <lb/>2 <lb/>21 <lb/>1. <lb/>t <lb/>3 <lb/>- <lb/>- <lb/>.L. </ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0009.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_2_MainZone-Head" ulx="61" uly="568" lrx="1445" lry="827"/>
+      <zone xml:id="facs_region_3_MainZone-Head" ulx="71" uly="571" lrx="1440" lry="677"/>
+      <zone xml:id="facs_region_5_GraphicZone" ulx="71" uly="1244" lrx="501" lry="1658"/>
+      <zone xml:id="facs_region_6_QuireMarksZone" ulx="1302" uly="2188" lrx="1391" lry="2262"/>
+      <zone xml:id="facs_region_7_MainZone-Continued" ulx="54" uly="1236" lrx="1493" lry="2198"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <head facs="#facs_region_2_MainZone-Head"/>
+      <head facs="#facs_region_3_MainZone-Head"/>
+      <ab facs="#facs_region_5_GraphicZone"/>
+      <ab facs="#facs_region_6_QuireMarksZone"/>
+      <ab facs="#facs_region_7_MainZone-Continued"><lb/>L <lb/>Olto ragioneuole cosa io ho sempre stimato, che <lb/>chiunque s’apparecchia a riprendere altri, sia <lb/>prima eßo mancheuole d’ogni colpa. E tutto¬ <lb/>che io habbia sentito a dire, che homini sauij <lb/>ne loro libri, habbiano registrati eßempi di <lb/>tali, che furono acerbi punitori in altri de <lb/>misfatti, che in se stessi non riprefere giamai; tuttaula mi ricordo <lb/>pure, che vna volta fu non so chi che disse, quelle essere singola¬ <lb/>rita, &amp; che per tali furono da Scritteri notati. Oltrache noi sap¬ <lb/>piamo, che Nostro Signore, ch era via per non fallare, &amp; <lb/>4 <lb/>verità <lb/>per non mentire, disse a chi gli meno inanzi la donna adultera, ché <lb/>2. <lb/>se alcuno si ritrouaua fra quelle brigate senza peccato, fosse eßo il <lb/>2 21 <lb/>primo a dar di mano a lassi per lapidarla. Hora tutto questo h4 <lb/>4 <lb/>da seruire a me, con bona gratia de Lettori. <lb/>Perche hauendo ja </ab>
+    </body>
+  </text>
+</TEI>

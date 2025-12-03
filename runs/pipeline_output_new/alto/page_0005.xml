@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Layout>
+    <Page ID="p1" WIDTH="1655" HEIGHT="2467">
+      <PrintSpace>
+        <TextBlock ID="region_0_TitlePageZone" HPOS="25" VPOS="713" WIDTH="1614" HEIGHT="1507" TAGREFS="TitlePageZone">
+          <TextLine HPOS="609" VPOS="742" WIDTH="55" HEIGHT="47">
+            <Baseline POINTS="610,782 664,784"/>
+            <String CONTENT="D"/>
+          </TextLine>
+          <TextLine HPOS="674" VPOS="744" WIDTH="337" HEIGHT="48">
+            <Baseline POINTS="675,784 1011,785"/>
+            <String CONTENT="PERA"/>
+          </TextLine>
+          <TextLine HPOS="66" VPOS="811" WIDTH="1469" HEIGHT="51">
+            <Baseline POINTS="66,849 1535,847"/>
+            <String CONTENT="Vtile ad Oratori, Predicatori, Poeti, Pittori, Scultori, Disegnatori, e ad’ogni studioso."/>
+          </TextLine>
+          <TextLine HPOS="236" VPOS="879" WIDTH="1145" HEIGHT="59">
+            <Baseline POINTS="237,923 1381,926"/>
+            <String CONTENT="Per inuentar Concetti, Emblemi, ed Imprese,"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="959" WIDTH="1415" HEIGHT="65">
+            <Baseline POINTS="97,1006 793,1002 1511,1004"/>
+            <String CONTENT="Per diuisare qualsiuoglia apparato Nuttiale, Funerale, Trionfale."/>
+          </TextLine>
+          <TextLine HPOS="30" VPOS="1038" WIDTH="1547" HEIGHT="55">
+            <Baseline POINTS="31,1077 921,1074 1577,1078"/>
+            <String CONTENT="Per rappresentar Poemi Drammatici, e per figurare co’suoi propij simboli"/>
+          </TextLine>
+          <TextLine HPOS="384" VPOS="1093" WIDTH="829" HEIGHT="51">
+            <Baseline POINTS="385,1129 1213,1130"/>
+            <String CONTENT="cio, che può cadere in pensiero humapo."/>
+          </TextLine>
+          <TextLine HPOS="338" VPOS="1157" WIDTH="702" HEIGHT="60">
+            <Baseline POINTS="338,1208 1040,1208"/>
+            <String CONTENT="A M PLI A"/>
+          </TextLine>
+          <TextLine HPOS="1052" VPOS="1157" WIDTH="221" HEIGHT="61">
+            <Baseline POINTS="1052,1209 1273,1209"/>
+            <String CONTENT="MT A"/>
+          </TextLine>
+          <TextLine HPOS="27" VPOS="1244" WIDTH="1550" HEIGHT="52">
+            <Baseline POINTS="27,1281 903,1279 1577,1284"/>
+            <String CONTENT="Vltimamente dallo Steßo Auttore di Trecento Imagini, e arricchite di molti discorsi pieni de"/>
+          </TextLine>
+          <TextLine HPOS="274" VPOS="1296" WIDTH="1052" HEIGHT="48">
+            <Baseline POINTS="275,1327 1326,1332"/>
+            <String CONTENT="varia cruditione; con nuoui intagli, &amp; con molti Indici copiosi."/>
+          </TextLine>
+          <TextLine HPOS="85" VPOS="1348" WIDTH="1440" HEIGHT="55">
+            <Baseline POINTS="86,1391 964,1392 1525,1398"/>
+            <String CONTENT="Dedicara all’Illustre, &amp; M. Reu. Padre D. MASSIMO da Mantoua"/>
+          </TextLine>
+          <TextLine HPOS="35" VPOS="1484" WIDTH="299" HEIGHT="66">
+            <Baseline POINTS="37,1538 134,1533 211,1524 334,1518"/>
+            <String CONTENT="~~"/>
+          </TextLine>
+          <TextLine HPOS="393" VPOS="1410" WIDTH="818" HEIGHT="48">
+            <Baseline POINTS="394,1447 996,1446 1211,1449"/>
+            <String CONTENT="Decano, &amp; Vicario perpetuo di Ciue."/>
+          </TextLine>
+          <TextLine HPOS="488" VPOS="1472" WIDTH="674" HEIGHT="54">
+            <Baseline POINTS="488,1520 567,1515 812,1510 1162,1519"/>
+            <String CONTENT="~~ ~ ~~ ~~~"/>
+          </TextLine>
+          <TextLine HPOS="159" VPOS="2167" WIDTH="54" HEIGHT="26">
+            <Baseline POINTS="159,2178 213,2177"/>
+            <String CONTENT="d¬"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="region_1_TitlePageZone" HPOS="0" VPOS="142" WIDTH="1604" HEIGHT="1344" TAGREFS="TitlePageZone">
+          <TextLine HPOS="564" VPOS="166" WIDTH="10" HEIGHT="31">
+            <Baseline POINTS="564,188 574,188"/>
+            <String CONTENT="¬"/>
+          </TextLine>
+          <TextLine HPOS="990" VPOS="167" WIDTH="74" HEIGHT="33">
+            <Baseline POINTS="990,189 1064,189"/>
+            <String CONTENT="1A"/>
+          </TextLine>
+          <TextLine HPOS="127" VPOS="380" WIDTH="1332" HEIGHT="103">
+            <Baseline POINTS="128,451 1459,445"/>
+            <String CONTENT="DI CESARE RIPA PERVGINO"/>
+          </TextLine>
+          <TextLine HPOS="227" VPOS="470" WIDTH="1176" HEIGHT="77">
+            <Baseline POINTS="227,535 1403,528"/>
+            <String CONTENT="-aualier de SS. Mauritio, &amp; Lazzaro."/>
+          </TextLine>
+          <TextLine HPOS="35" VPOS="564" WIDTH="1537" HEIGHT="59">
+            <Baseline POINTS="36,610 1251,605 1572,607"/>
+            <String CONTENT="Nella quale si descriuono diuerse Imagini di Virtù, Vitij, Affetti, Passioni hu"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="619" WIDTH="1435" HEIGHT="56">
+            <Baseline POINTS="87,664 1521,659"/>
+            <String CONTENT="manc, Arti, Discipline, Humori, Elementi, Corpi Celesti, Prouincie"/>
+          </TextLine>
+          <TextLine HPOS="162" VPOS="676" WIDTH="1290" HEIGHT="51">
+            <Baseline POINTS="163,716 952,716 1452,712"/>
+            <String CONTENT="d’Italia, Fiumi, tutte le parti del Mondo, ed’altre infinite materic."/>
+          </TextLine>
+          <TextLine HPOS="632" VPOS="748" WIDTH="10" HEIGHT="39">
+            <Baseline POINTS="632,784 642,784"/>
+            <String CONTENT="1"/>
+          </TextLine>
+          <TextLine HPOS="687" VPOS="745" WIDTH="322" HEIGHT="47">
+            <Baseline POINTS="687,784 1009,784"/>
+            <String CONTENT="PERA"/>
+          </TextLine>
+          <TextLine HPOS="67" VPOS="811" WIDTH="1466" HEIGHT="50">
+            <Baseline POINTS="67,849 1533,847"/>
+            <String CONTENT="Vtile ad Oratori, Predicatori, Poeti, Pittori, Scultori, Disegnatori, e ad’ogni studioso."/>
+          </TextLine>
+          <TextLine HPOS="238" VPOS="878" WIDTH="1140" HEIGHT="61">
+            <Baseline POINTS="238,924 1378,928"/>
+            <String CONTENT="Per inuentar Concetti, Emblemi, ed Imprese,"/>
+          </TextLine>
+          <TextLine HPOS="99" VPOS="961" WIDTH="1410" HEIGHT="63">
+            <Baseline POINTS="100,1006 274,1003 1509,1005"/>
+            <String CONTENT="Per diuisare qualsiuoglia apparato Nuttiale, Funerale, Trionfale."/>
+          </TextLine>
+          <TextLine HPOS="35" VPOS="1036" WIDTH="1537" HEIGHT="57">
+            <Baseline POINTS="35,1076 813,1075 1572,1078"/>
+            <String CONTENT="Per rappresentar Poemi Drammatici, e per figurare co’suoi propij simboli"/>
+          </TextLine>
+          <TextLine HPOS="386" VPOS="1095" WIDTH="824" HEIGHT="49">
+            <Baseline POINTS="386,1129 1210,1131"/>
+            <String CONTENT="cio, che puo cadere in pensiero humapo."/>
+          </TextLine>
+          <TextLine HPOS="339" VPOS="1156" WIDTH="244" HEIGHT="61">
+            <Baseline POINTS="339,1208 583,1209"/>
+            <String CONTENT="A A"/>
+          </TextLine>
+          <TextLine HPOS="610" VPOS="1157" WIDTH="419" HEIGHT="59">
+            <Baseline POINTS="610,1209 1029,1208"/>
+            <String CONTENT="PLIA"/>
+          </TextLine>
+          <TextLine HPOS="1070" VPOS="1154" WIDTH="91" HEIGHT="63">
+            <Baseline POINTS="1070,1209 1161,1210"/>
+            <String CONTENT="T"/>
+          </TextLine>
+          <TextLine HPOS="1187" VPOS="1167" WIDTH="83" HEIGHT="50">
+            <Baseline POINTS="1187,1210 1270,1210"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="31" VPOS="1244" WIDTH="1544" HEIGHT="53">
+            <Baseline POINTS="31,1282 312,1279 928,1280 1575,1286"/>
+            <String CONTENT="Vltimamente dallo Steßo Auttore di Trecento Imagini, e arricchite di molti discorsi pieni de"/>
+          </TextLine>
+          <TextLine HPOS="277" VPOS="1298" WIDTH="1048" HEIGHT="44">
+            <Baseline POINTS="278,1329 1325,1331"/>
+            <String CONTENT="varta cruditione; con nuout intagli, &amp; con molti Indici copiosi."/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="1350" WIDTH="1437" HEIGHT="54">
+            <Baseline POINTS="87,1392 832,1392 1523,1398"/>
+            <String CONTENT="Dedicara all’Illustre, &amp; M. Reu. Padre D. MASSIMQ da Mantoua"/>
+          </TextLine>
+          <TextLine HPOS="392" VPOS="1409" WIDTH="819" HEIGHT="53">
+            <Baseline POINTS="393,1446 1211,1449"/>
+            <String CONTENT="Decano, &amp; Vicario perpetuo di Ciuc."/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="region_2_MainZone-P" HPOS="13" VPOS="567" WIDTH="1573" HEIGHT="163" TAGREFS="MainZone-P"/>
+        <TextBlock ID="region_3_GraphicZone" HPOS="0" VPOS="1456" WIDTH="1565" HEIGHT="745" TAGREFS="GraphicZone">
+          <TextLine HPOS="361" VPOS="1768" WIDTH="34" HEIGHT="18">
+            <Baseline POINTS="375,1769 377,1785"/>
+            <String CONTENT="2"/>
+          </TextLine>
+          <TextLine HPOS="241" VPOS="2162" WIDTH="162" HEIGHT="26">
+            <Baseline POINTS="241,2177 403,2176"/>
+            <String CONTENT="Mu"/>
+          </TextLine>
+          <TextLine HPOS="474" VPOS="2158" WIDTH="3" HEIGHT="32">
+            <Baseline POINTS="474,2177 477,2177"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="597" VPOS="1488" WIDTH="148" HEIGHT="33">
+            <Baseline POINTS="598,1515 745,1511"/>
+            <String CONTENT="VICI"/>
+          </TextLine>
+          <TextLine HPOS="1012" VPOS="1512" WIDTH="42" HEIGHT="10">
+            <Baseline POINTS="1012,1516 1054,1516"/>
+            <String CONTENT="4"/>
+          </TextLine>
+          <TextLine HPOS="556" VPOS="2178" WIDTH="3" HEIGHT="11">
+            <Baseline POINTS="556,2178 559,2178"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="569" VPOS="2178" WIDTH="10" HEIGHT="4">
+            <Baseline POINTS="569,2178 579,2178"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="895" VPOS="2163" WIDTH="17" HEIGHT="26">
+            <Baseline POINTS="896,2180 912,2179"/>
+            <String CONTENT="U"/>
+          </TextLine>
+          <TextLine HPOS="1171" VPOS="2160" WIDTH="77" HEIGHT="30">
+            <Baseline POINTS="1171,2181 1248,2181"/>
+            <String CONTENT="ummm"/>
+          </TextLine>
+          <TextLine HPOS="1444" VPOS="2112" WIDTH="53" HEIGHT="14">
+            <Baseline POINTS="1445,2121 1468,2119 1497,2120"/>
+            <String CONTENT="121"/>
+          </TextLine>
+          <TextLine HPOS="1469" VPOS="2149" WIDTH="6" HEIGHT="13">
+            <Baseline POINTS="1470,2155 1474,2154"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="1485" VPOS="2150" WIDTH="5" HEIGHT="15">
+            <Baseline POINTS="1485,2160 1490,2160"/>
+            <String CONTENT="2"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
