@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0004.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_0_GraphicZone" ulx="0" uly="0" lrx="1655" lry="1582"/>
+      <zone xml:id="facs_region_1_GraphicZone" ulx="0" uly="563" lrx="1655" lry="2267"/>
+      <zone xml:id="facs_region_2_GraphicZone" ulx="0" uly="0" lrx="1655" lry="777"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_0_GraphicZone"/>
+      <ab facs="#facs_region_1_GraphicZone"/>
+      <ab facs="#facs_region_2_GraphicZone"/>
+    </body>
+  </text>
+</TEI>

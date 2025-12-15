@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0008.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_0_MainZone-Continued" ulx="92" uly="204" lrx="1529" lry="1561"/>
+      <zone xml:id="facs_region_1_MainZone-Head" ulx="227" uly="1651" lrx="960" lry="1727"/>
+      <zone xml:id="facs_region_2_MainZone-Other" ulx="226" uly="1651" lrx="957" lry="1726"/>
+      <zone xml:id="facs_region_3_QuireMarksZone" ulx="906" uly="2053" lrx="1441" lry="2130"/>
+      <zone xml:id="facs_region_4_MainZone-P" ulx="906" uly="2054" lrx="1440" lry="2132"/>
+      <zone xml:id="facs_region_5_MainZone-Head" ulx="534" uly="1853" lrx="1117" lry="1933"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_0_MainZone-Continued"><lb/>gale delirlla vn pelzo dilaticato pel aitii, il portoliTi¬ <lb/>O <lb/>poso desiderato da gl’animi, che seguono la traccia del ve¬ <lb/>1 <lb/>ro bene, non ingannati punto dall’instabili tà delle huma¬ <lb/>ne speranze. Per quanto poi à me tocca io ho riceuuto <lb/>fauore da V. P. molto Reuerenda che lungo sarebbe il ri¬ <lb/>dirli, &amp; basta, ch’io dica, che sono vinti, &amp; più anni, ch’el¬ <lb/>la di continuo m’obliga alle sue cortesi maniere. Per tut¬ <lb/>ti questi capi io mi sento si desideroso di mostrarli qual¬ <lb/>che picciola parte de i molti obligi, ch’io le tengo, che nõ <lb/>hauendo per hora cosa più à proposito della presente Ico¬ <lb/>nologia del Cauallier Cesare Ripa, Libro di gran nome, &amp; <lb/>2 <lb/>di molto spaccio, ristampato da me nuouamente, &amp; accré¬ <lb/>sciuto dall’Auttore medesimo, di molte figure, &amp; discorsi, <lb/>che mancauano in tutte l’altre editioni, hò deliberato di <lb/>adornarlo del glorioso nome di V.P. molto Reuerenda, si <lb/> <lb/>per dare al Libro riputatione, si per notificare al Mondo <lb/>1 <lb/>quant io tenga a mente le gratie, di che ella in diuerse oc¬ <lb/>casioni m’ha fauorito, le piacera accetarlo con la fronte <lb/>lieta, ch’io con cuore pronto glielo dono, &amp; con farli ri¬ <lb/>uerenria finisco. Della mia Libreria il dì 10.Genn.1618. </ab>
+      <head facs="#facs_region_1_MainZone-Head"/>
+      <ab type="MainZone-Other" facs="#facs_region_2_MainZone-Other"/>
+      <ab facs="#facs_region_3_QuireMarksZone"/>
+      <p facs="#facs_region_4_MainZone-P"/>
+      <head facs="#facs_region_5_MainZone-Head"/>
+    </body>
+  </text>
+</TEI>

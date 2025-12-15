@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Layout>
+    <Page ID="p1" WIDTH="1655" HEIGHT="2467">
+      <PrintSpace>
+        <TextBlock ID="region_0_GraphicZone" HPOS="0" VPOS="0" WIDTH="1655" HEIGHT="1582" TAGREFS="GraphicZone"/>
+        <TextBlock ID="region_1_GraphicZone" HPOS="0" VPOS="563" WIDTH="1655" HEIGHT="1704" TAGREFS="GraphicZone"/>
+        <TextBlock ID="region_2_GraphicZone" HPOS="0" VPOS="0" WIDTH="1655" HEIGHT="777" TAGREFS="GraphicZone"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

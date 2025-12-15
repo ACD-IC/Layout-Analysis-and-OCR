@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>page_0013.png</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface lrx="1655" lry="2467">
+      <zone xml:id="facs_region_1_QuireMarksZone" ulx="1197" uly="2244" lrx="1430" lry="2290"/>
+      <zone xml:id="facs_region_3_MainZone-P" ulx="79" uly="685" lrx="1474" lry="830"/>
+      <zone xml:id="facs_region_4_GraphicZone" ulx="82" uly="1102" lrx="509" lry="1531"/>
+      <zone xml:id="facs_region_5_QuireMarksZone" ulx="1358" uly="2246" lrx="1431" lry="2287"/>
+      <zone xml:id="facs_region_6_MainZone-Head" ulx="73" uly="146" lrx="1484" lry="621"/>
+      <zone xml:id="facs_region_7_MainZone-Continued" ulx="67" uly="1092" lrx="1483" lry="2253"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab facs="#facs_region_1_QuireMarksZone"/>
+      <p facs="#facs_region_3_MainZone-P"/>
+      <ab facs="#facs_region_4_GraphicZone"/>
+      <ab facs="#facs_region_5_QuireMarksZone"/>
+      <head facs="#facs_region_6_MainZone-Head"><lb/>7 <lb/> <lb/> <lb/>6 <lb/>D </head>
+      <ab facs="#facs_region_7_MainZone-Continued"><lb/>Y <lb/>1 <lb/> <lb/>E Imagini fatte per significare vna diuersa cosa da quel¬ <lb/>la, che si vede con l’occhio, non hanno altra più certa, ne <lb/>più vniuer sale regola, che l’imitatione delle memorie, cbe <lb/>si trouano ne' Libri, nelle Medaglie, e ne' Marmi intaglia <lb/>te per industria de' Latini, &amp; de Greci, ò di quei ptù an¬ <lb/>tichi, che furono inuentori di questo artifitio. Però com¬ <lb/>munemente pare, che chi s’affatica fuori di questa imita¬ <lb/>tione, erri, ó per ignoranza, ò per troppo presumere, le <lb/>quali due macchie sono molto abborrite da quelli, che at¬ <lb/>tendono con le propie fatiche all’acquisto di qualche lode. Per fuggire adunque il <lb/>sospetto di questa colpa, hò giudicata buona cosa, Chauendo io voluto di tutte que¬ <lb/>ste Imagini fare vn fascio maggiore di quello, che si poteua raccorre dall’osseruatio¬ <lb/>ni delle cose più antiche, &amp; però bisognando fingerne molte, &amp; molte prenderne <lb/>delle moderne, e dichiarando verisimilmente ciascuna) trattare alcune cose intorno <lb/>al modo di formare, e dichiarare i concetti sim bolici, nel principio di quest’opera, la <lb/>quale forse con troppa diligenza di molti amici si sollecita, e si aspetta liquali sono io <lb/>in principal obligo di contentare. Lasciando dunque da parte quell’Imagine, della <lb/>quale si serue l’Oratore, &amp; della quale tratta Aristotele nel terzo libro della sua <lb/>Rettorica, diró solo di quella, che appartiene a’Dipintori, ouero a quelli, che per mez¬ <lb/>zo di colori, o d’altra cosa visibile possono rappresentare qualche cosa differente da <lb/>essa, &amp; ha conformità con l’altra; perche, si come questa persuade molte volte per <lb/>mezzo dell’occhio, cosi quella per mezzo delle parole muoue la volonta: &amp; perche <lb/>anco questa guarda le metafore delle cose, che stanno fuori dell’hucmo, &amp; quelle, che <lb/>e </ab>
+    </body>
+  </text>
+</TEI>

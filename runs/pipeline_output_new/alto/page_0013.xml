@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Layout>
+    <Page ID="p1" WIDTH="1655" HEIGHT="2467">
+      <PrintSpace>
+        <TextBlock ID="region_1_QuireMarksZone" HPOS="1197" VPOS="2244" WIDTH="233" HEIGHT="46" TAGREFS="QuireMarksZone"/>
+        <TextBlock ID="region_3_MainZone-P" HPOS="79" VPOS="685" WIDTH="1395" HEIGHT="145" TAGREFS="MainZone-P"/>
+        <TextBlock ID="region_4_GraphicZone" HPOS="82" VPOS="1102" WIDTH="427" HEIGHT="429" TAGREFS="GraphicZone"/>
+        <TextBlock ID="region_5_QuireMarksZone" HPOS="1358" VPOS="2246" WIDTH="73" HEIGHT="41" TAGREFS="QuireMarksZone"/>
+        <TextBlock ID="region_6_MainZone-Head" HPOS="73" VPOS="146" WIDTH="1411" HEIGHT="475" TAGREFS="MainZone-Head">
+          <TextLine HPOS="203" VPOS="178" WIDTH="8" HEIGHT="16">
+            <Baseline POINTS="204,187 211,187"/>
+            <String CONTENT="7"/>
+          </TextLine>
+          <TextLine HPOS="390" VPOS="493" WIDTH="3" HEIGHT="4">
+            <Baseline POINTS="390,494 393,494"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="479" VPOS="493" WIDTH="3" HEIGHT="5">
+            <Baseline POINTS="479,494 482,494"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="484" VPOS="493" WIDTH="8" HEIGHT="6">
+            <Baseline POINTS="484,494 492,494"/>
+            <String CONTENT="6"/>
+          </TextLine>
+          <TextLine HPOS="507" VPOS="493" WIDTH="31" HEIGHT="8">
+            <Baseline POINTS="508,494 538,494"/>
+            <String CONTENT="D"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="region_7_MainZone-Continued" HPOS="67" VPOS="1092" WIDTH="1416" HEIGHT="1161" TAGREFS="MainZone-Continued">
+          <TextLine HPOS="283" VPOS="1108" WIDTH="15" HEIGHT="28">
+            <Baseline POINTS="283,1130 298,1130"/>
+            <String CONTENT="Y"/>
+          </TextLine>
+          <TextLine HPOS="480" VPOS="1173" WIDTH="10" HEIGHT="30">
+            <Baseline POINTS="480,1196 490,1196"/>
+            <String CONTENT="1"/>
+          </TextLine>
+          <TextLine HPOS="470" VPOS="1355" WIDTH="21" HEIGHT="27">
+            <Baseline POINTS="472,1376 491,1374"/>
+            <String CONTENT=""/>
+          </TextLine>
+          <TextLine HPOS="519" VPOS="1107" WIDTH="953" HEIGHT="56">
+            <Baseline POINTS="520,1149 1472,1141"/>
+            <String CONTENT="E Imagini fatte per significare vna diuersa cosa da quel¬"/>
+          </TextLine>
+          <TextLine HPOS="528" VPOS="1160" WIDTH="944" HEIGHT="47">
+            <Baseline POINTS="529,1197 1472,1192"/>
+            <String CONTENT="la, che si vede con l’occhio, non hanno altra più certa, ne"/>
+          </TextLine>
+          <TextLine HPOS="529" VPOS="1210" WIDTH="943" HEIGHT="48">
+            <Baseline POINTS="530,1247 1472,1242"/>
+            <String CONTENT="più vniuer sale regola, che l’imitatione delle memorie, cbe"/>
+          </TextLine>
+          <TextLine HPOS="525" VPOS="1257" WIDTH="948" HEIGHT="52">
+            <Baseline POINTS="525,1297 1473,1291"/>
+            <String CONTENT="si trouano ne' Libri, nelle Medaglie, e ne' Marmi intaglia"/>
+          </TextLine>
+          <TextLine HPOS="526" VPOS="1308" WIDTH="947" HEIGHT="51">
+            <Baseline POINTS="527,1347 1473,1339"/>
+            <String CONTENT="te per industria de' Latini, &amp; de Greci, ò di quei ptù an¬"/>
+          </TextLine>
+          <TextLine HPOS="525" VPOS="1356" WIDTH="947" HEIGHT="50">
+            <Baseline POINTS="526,1396 1472,1389"/>
+            <String CONTENT="tichi, che furono inuentori di questo artifitio. Però com¬"/>
+          </TextLine>
+          <TextLine HPOS="530" VPOS="1407" WIDTH="943" HEIGHT="55">
+            <Baseline POINTS="531,1444 1473,1438"/>
+            <String CONTENT="munemente pare, che chi s’affatica fuori di questa imita¬"/>
+          </TextLine>
+          <TextLine HPOS="528" VPOS="1458" WIDTH="945" HEIGHT="54">
+            <Baseline POINTS="528,1494 1473,1489"/>
+            <String CONTENT="tione, erri, ó per ignoranza, ò per troppo presumere, le"/>
+          </TextLine>
+          <TextLine HPOS="530" VPOS="1502" WIDTH="943" HEIGHT="52">
+            <Baseline POINTS="530,1542 1473,1536"/>
+            <String CONTENT="quali due macchie sono molto abborrite da quelli, che at¬"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="1551" WIDTH="1384" HEIGHT="59">
+            <Baseline POINTS="91,1590 368,1593 1474,1586"/>
+            <String CONTENT="tendono con le propie fatiche all’acquisto di qualche lode. Per fuggire adunque il"/>
+          </TextLine>
+          <TextLine HPOS="100" VPOS="1601" WIDTH="1372" HEIGHT="55">
+            <Baseline POINTS="101,1639 550,1642 1472,1635"/>
+            <String CONTENT="sospetto di questa colpa, hò giudicata buona cosa, Chauendo io voluto di tutte que¬"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="1650" WIDTH="1383" HEIGHT="57">
+            <Baseline POINTS="92,1690 487,1692 1475,1684"/>
+            <String CONTENT="ste Imagini fare vn fascio maggiore di quello, che si poteua raccorre dall’osseruatio¬"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="1703" WIDTH="1383" HEIGHT="50">
+            <Baseline POINTS="92,1737 533,1742 675,1738 1475,1735"/>
+            <String CONTENT="ni delle cose più antiche, &amp; però bisognando fingerne molte, &amp; molte prenderne"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="1751" WIDTH="1383" HEIGHT="47">
+            <Baseline POINTS="93,1786 566,1790 1475,1784"/>
+            <String CONTENT="delle moderne, e dichiarando verisimilmente ciascuna) trattare alcune cose intorno"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="1799" WIDTH="1382" HEIGHT="52">
+            <Baseline POINTS="94,1836 583,1839 1475,1834"/>
+            <String CONTENT="al modo di formare, e dichiarare i concetti sim bolici, nel principio di quest’opera, la"/>
+          </TextLine>
+          <TextLine HPOS="94" VPOS="1847" WIDTH="1381" HEIGHT="56">
+            <Baseline POINTS="94,1883 302,1887 582,1888 1475,1882"/>
+            <String CONTENT="quale forse con troppa diligenza di molti amici si sollecita, e si aspetta liquali sono io"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="1899" WIDTH="1383" HEIGHT="52">
+            <Baseline POINTS="93,1933 503,1938 1476,1931"/>
+            <String CONTENT="in principal obligo di contentare. Lasciando dunque da parte quell’Imagine, della"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="1948" WIDTH="1382" HEIGHT="52">
+            <Baseline POINTS="92,1982 583,1987 1474,1981"/>
+            <String CONTENT="quale si serue l’Oratore, &amp; della quale tratta Aristotele nel terzo libro della sua"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="1997" WIDTH="1381" HEIGHT="53">
+            <Baseline POINTS="94,2032 481,2036 1474,2029"/>
+            <String CONTENT="Rettorica, diró solo di quella, che appartiene a’Dipintori, ouero a quelli, che per mez¬"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="2047" WIDTH="1383" HEIGHT="57">
+            <Baseline POINTS="94,2081 329,2084 1048,2084 1476,2078"/>
+            <String CONTENT="zo di colori, o d’altra cosa visibile possono rappresentare qualche cosa differente da"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="2096" WIDTH="1383" HEIGHT="51">
+            <Baseline POINTS="91,2130 418,2134 1201,2133 1474,2126"/>
+            <String CONTENT="essa, &amp; ha conformità con l’altra; perche, si come questa persuade molte volte per"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="2146" WIDTH="1384" HEIGHT="51">
+            <Baseline POINTS="92,2179 398,2183 1168,2182 1475,2175"/>
+            <String CONTENT="mezzo dell’occhio, cosi quella per mezzo delle parole muoue la volonta: &amp; perche"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="2195" WIDTH="1381" HEIGHT="52">
+            <Baseline POINTS="92,2229 641,2235 1136,2233 1473,2226"/>
+            <String CONTENT="anco questa guarda le metafore delle cose, che stanno fuori dell’hucmo, &amp; quelle, che"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="1355" WIDTH="19" HEIGHT="49">
+            <Baseline POINTS="96,1389 115,1389"/>
+            <String CONTENT="e"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
